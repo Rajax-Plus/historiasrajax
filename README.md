@@ -1,1 +1,1 @@
-# historiasrajax - códigos de estilo
+# historiasrajax - códigos dos episódios
